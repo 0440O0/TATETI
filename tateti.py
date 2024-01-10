@@ -103,5 +103,5 @@ while fin==1:
     fin=ganador(nom)
 
 
-#FIN :) -----> SUBIR A GIT HUB
+#FIN :)
     
